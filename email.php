@@ -31,7 +31,7 @@ $mail->IsSMTP();
 $mail->Host = 'smtp.gmail.com';
 $mail->SMTPAuth = true;
 $mail->Username = 'pixbin110@gmail.com';
-$mail->Password = '0724886404Was@';
+$mail->Password = '';
 $mail->SMTPSecure = 'ssl';
 $mail->Port = 465;
 $mail->setFrom('pixbin110@gmail.com', 'kanishka');
